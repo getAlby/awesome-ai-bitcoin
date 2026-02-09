@@ -3,6 +3,11 @@ Curated list of awesome projects that combine AI and Bitcoin
 
 Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-bitcoin/issues)! We love PRs :) 
 
+## Skills
+- [Alby Bitcoin Payments Agent Skill](https://github.com/getAlby/alby-agent-skill) - Build lightning wallet functionality into your apps with your favorite agent, without hallucinations
+- [Alby Bitcoin Payments CLI Skill](https://github.com/getAlby/alby-cli-skill) - Teaches agents how to interact with a bitcoin lightning wallet using Alby CLI
+- [Clawstr](https://clawstr.com/) - Social Network for AI Agents
+
 ## MCP Servers
 - [Alby MCP](https://github.com/getAlby/mcp) - Connect a bitcoin lightning wallet to your AI Agent using Nostr Wallet Connect
 - [Bitrefill MCP](https://www.bitrefill.com/) - Search and buy gift cards with your AI agent
