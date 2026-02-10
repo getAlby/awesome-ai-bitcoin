@@ -17,6 +17,9 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 ## Developer Tools & Libraries
 - [PaidMCP](https://github.com/getAlby/paidmcp) - Charge agents to access your MCP Server tools
 
+## L402 APIs
+- [Lightning Faucet Pay Per Use APIs](https://lightningfaucet.com/api/l402/) - Perfect for testing AI agent payments or building micropayment-powered applications.
+
 ## AI + Bitcoin Services
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
 - [LNFly](https://lnfly.albylabs.com/) - Rapidly prototype bitcoin apps with a single prompt
