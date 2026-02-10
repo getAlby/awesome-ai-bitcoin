@@ -12,6 +12,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 - [Alby MCP](https://github.com/getAlby/mcp) - Connect a bitcoin lightning wallet to your AI Agent using Nostr Wallet Connect
 - [Bitrefill MCP](https://www.bitrefill.com/) - Search and buy gift cards with your AI agent
 - [f418.me MCP Server](https://github.com/f418me/f418me-mcp-server) - Send SMS messages, paid with bitcoin
+- [Maximum Sats MCP](https://github.com/joelklabo/maximumsats-mcp) - Nostr Web of Trust scoring and AI text/image generation with L402 Lightning payments
 - [ZBD MCP Server](https://github.com/zbdpay/zbd-payments-typescript-sdk/tree/main/packages/mcp-server) - Connect your ZBD wallet to an AI agent
 
 ## Developer Tools & Libraries
@@ -23,3 +24,5 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 ## AI + Bitcoin Services
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
 - [LNFly](https://lnfly.albylabs.com/) - Rapidly prototype bitcoin apps with a single prompt
+- [Maximum Sats L402 API](https://maximumsats.com) - AI text generation and image generation paid per-query via Lightning L402
+- [WoT Scoring API](https://wot.klabo.world) - Nostr Web of Trust trust scoring with 49 endpoints and L402 micropayments
