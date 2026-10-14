@@ -20,6 +20,7 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 ## L402 APIs
 - [Lightning Faucet Pay Per Use APIs](https://lightningfaucet.com/api/l402/) - Perfect for testing AI agent payments or building micropayment-powered applications.
 - [Satring](https://satring.com/) - Searchable L402 API service directory for discovering and listing Lightning-paywalled APIs
+- [Loop Gateway](https://api.loopxxi.com/llms.txt) - OpenAI-compatible inference for 400+ models, paid per request over L402 (from 1 sat) or with prepaid Lightning credit
 
 ## AI + Bitcoin Services
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
