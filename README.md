@@ -1,12 +1,15 @@
 # Awesome AI & Bitcoin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/getAlby/awesome-ai-bitcoin)
 Curated list of awesome projects that combine AI and Bitcoin
 
+
 Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-bitcoin/issues)! We love PRs :) 
+
 
 ## Skills
 - [Alby Bitcoin Payments Agent Skill](https://github.com/getAlby/alby-agent-skill) - Build lightning wallet functionality into your apps with your favorite agent, without hallucinations
 - [Alby Bitcoin Payments CLI Skill](https://github.com/getAlby/alby-cli-skill) - Teaches agents how to interact with a bitcoin lightning wallet using Alby CLI
 - [Clawstr](https://clawstr.com/) - Social Network for AI Agents
+
 
 ## MCP Servers
 - [Alby MCP](https://github.com/getAlby/mcp) - Connect a bitcoin lightning wallet to your AI Agent using Nostr Wallet Connect
@@ -14,14 +17,19 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 - [f418.me MCP Server](https://github.com/f418me/f418me-mcp-server) - Send SMS messages, paid with bitcoin
 - [ZBD MCP Server](https://github.com/zbdpay/zbd-payments-typescript-sdk/tree/main/packages/mcp-server) - Connect your ZBD wallet to an AI agent
 
+
 ## Developer Tools & Libraries
 - [PaidMCP](https://github.com/getAlby/paidmcp) - Charge agents to access your MCP Server tools
+
 
 ## L402 APIs
 - [Lightning Faucet Pay Per Use APIs](https://lightningfaucet.com/api/l402/) - Perfect for testing AI agent payments or building micropayment-powered applications.
 - [Satring](https://satring.com/) - Searchable L402 API service directory for discovering and listing Lightning-paywalled APIs
 - [Loop Gateway](https://api.loopxxi.com/llms.txt) - OpenAI-compatible inference for 400+ models, paid per request over L402 (from 1 sat) or with prepaid Lightning credit
 
+
 ## AI + Bitcoin Services
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
 - [LNFly](https://lnfly.albylabs.com/) - Rapidly prototype bitcoin apps with a single prompt
+- [SatBotly](https://satbotly.com) - Free directory of what AI agents can pay for: 458 pay-per-call APIs (x402, L402, MPP) priced from unpaid HTTP 402 challenges, 199 agent wallets, and Bitcoin-acceptance checks.
+
