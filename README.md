@@ -25,3 +25,4 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 ## AI + Bitcoin Services
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
 - [LNFly](https://lnfly.albylabs.com/) - Rapidly prototype bitcoin apps with a single prompt
+- [SatBotly](https://satbotly.com) - Free directory of what AI agents can pay for: 458 pay-per-call APIs (x402, L402, MPP) priced from unpaid HTTP 402 challenges, 199 agent wallets, and Bitcoin-acceptance checks.
