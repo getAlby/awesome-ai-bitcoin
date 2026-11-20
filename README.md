@@ -25,3 +25,4 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 ## AI + Bitcoin Services
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
 - [LNFly](https://lnfly.albylabs.com/) - Rapidly prototype bitcoin apps with a single prompt
+- [Sats for Bots](https://satsforbots.com/llms.txt) - Curated directory of Lightning tools for AI agents (L402, NWC, Cashu, MCP servers, paid APIs), with a dated check of every listing and a weekly newsletter
