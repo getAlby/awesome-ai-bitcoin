@@ -23,5 +23,6 @@ Any comments, suggestions? [Let us know](https://github.com/getAlby/awesome-ai-b
 - [Loop Gateway](https://api.loopxxi.com/llms.txt) - OpenAI-compatible inference for 400+ models, paid per request over L402 (from 1 sat) or with prepaid Lightning credit
 
 ## AI + Bitcoin Services
+- [Agent Escrow](https://agentescrow.to) - Non-custodial 2-of-3 Bitcoin escrow for agents on Arkade, with Lightning in and out. Mark is the open-source CLI and MCP server an agent installs to use the service (npm @yuvlero/mark, MCP registry to.agentescrow/mark); mark swap also swaps between Lightning, Arkade, USDC and USDT
 - [FreePilot](https://freepilot.albylabs.com/) - Stream payments to a bot that tackles your github issues and submits pull requests
 - [LNFly](https://lnfly.albylabs.com/) - Rapidly prototype bitcoin apps with a single prompt
